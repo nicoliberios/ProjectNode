@@ -2,11 +2,12 @@
 
 This is a simple "Hello World" project using Node.js.
 
-## Table of Contents
+## Contents
 
-- [Description](#description)
-- [Requirements](#requirements)
-- [Installation](#installation)
+- [Description](#Description)
+- [Requirements](#Requirements)
+- [Installation](#Installation)
+- [Run_application](#Run_application)
 
 ## Description
 
@@ -16,14 +17,6 @@ This project is a sample application that prints "Hello World!" to the console. 
 
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - npm (v6 or higher, which is installed automatically with Node.js)
-
-## Contents
-
-- [Description](#description)
-- [Requirements](#requirements)
-- [Contents](#Contents)
-- [Installation](#installation)
-- [Run_application](#Run_application)
   
 ## Installation
 
