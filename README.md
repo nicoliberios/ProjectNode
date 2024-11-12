@@ -17,16 +17,6 @@ This project is a sample application that prints "Hello World!" to the console. 
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - npm (v6 or higher, which is installed automatically with Node.js)
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone # Hello World in Node.js
-   ```
-
-This is a simple "Hello World" project using Node.js.
-
 ## Table of Contents
 
 - [Description](#description)
