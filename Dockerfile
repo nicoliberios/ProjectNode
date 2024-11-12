@@ -1,7 +1,8 @@
-FROM node:18-bullseye
 
-WORKDIR /node-app
+FROM node:16
 
-COPY index.js ./
+WORKDIR /usr/src/app
 
-CMD [ "npm", "start" ]
+COPY index.js .
+
+CMD ["node", "index.js"]
