@@ -1,5 +1,13 @@
-FROM node:16-bullseye
+FROM node:14
 
-WORKDIR /usr/src/app
+WORKDIR /app
 
-COPY index.js .
+COPY package*.json ./
+
+RUN npm install
+
+COPY . .
+
+RUN npm run build
+
+CMD ["node", "index.js"]
