@@ -1,11 +1,10 @@
 {
-    "name": "hello-world-node",
-    "version": "1.0.0",
-    "description": "Proyecto Node.js 'Hello world'", 
-    "main": "index.js",
-    "scripts": {
-      "start": "node index.js"
-    },
-    "keywords": ["node", "hello-world"],
-    "author": "Nicolas Liberio"
-  }
+  "name": "hello-world-app",
+  "version": "1.0.0",
+  "description": "Hello World application in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
